@@ -1,13 +1,18 @@
 .post-img{
-    height: 404px;
+    height: 500px;
     overflow: hidden; 
+}
+.post-imga{
+    height: 700px;
+    overflow: hidden; 
+}
+.post-imga img{
+    width: 100%;
 }
 .post-img img{
     width: 100%;
 }
-.blog-post-content{
-    /* background-color: rebeccapurple; */
-}
+
 .blog-post-content h1{
     text-align: center;
 }
@@ -36,6 +41,11 @@
 }
 .social{
     padding-right: 53px;
+    align-self: center;
+    cursor: pointer;
+}
+.socialy{
+    padding-right: 10px;
     align-self: center;
     cursor: pointer;
 }
