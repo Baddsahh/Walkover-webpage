@@ -1,16 +1,17 @@
 .post-img{
-    height: 500px;
-    overflow: hidden; 
+    height: 100%;
 }
-.post-imga{
+/* .post-imga{
     height: 700px;
     overflow: hidden; 
 }
 .post-imga img{
     width: 100%;
-}
+} */
 .post-img img{
-    width: 100%;
+    width: 30%;
+    position:relative;
+    left: 35%;
 }
 
 .blog-post-content h1{
